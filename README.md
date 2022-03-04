@@ -8,6 +8,12 @@
 ### What is a Purchase Order (PO)?
 In SAP Retail, a purchase order is a commercial document indicating types, quantities, agreed prices and delivery information (locations, time) for products or services.
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EY9yt0BTr2M"><img src="https://i.ytimg.com/an_webp/EY9yt0BTr2M/mqdefault_6s.webp?du=3000&sqp=CP__hJEG&rs=AOn4CLDwbxVnbIQFTkz_j6BMeDD0vuoM5A" alt="Explainer Video Link"></a>
+</div>
+
 ### Scenario
 > You want to order 10 Pcs of an article (SAP Code: 145654789 ) at the agreed price of 200$ to be delivered 20.09.2020 in WH01 by Supplier XXX (Vendor Code: 15487). 
 You are working in a purchase organization (Code: PORG ) of Retail Company (Code: RTCP) and you’re part of the purchase group (Code: PRGP).
