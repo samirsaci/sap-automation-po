@@ -11,7 +11,7 @@ In SAP Retail, a purchase order is a commercial document indicating types, quant
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=EY9yt0BTr2M"><img src="https://i.ytimg.com/an_webp/EY9yt0BTr2M/mqdefault_6s.webp?du=3000&sqp=CP__hJEG&rs=AOn4CLDwbxVnbIQFTkz_j6BMeDD0vuoM5A" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=EY9yt0BTr2M"><img src="https://github.com/samirsaci/sap-automation-po/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Scenario
