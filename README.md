@@ -22,7 +22,7 @@ You are working in a purchase organization (Code: PORG ) of Retail Company (Code
 ME21N transaction can be used to operate PO Creation
 
 ### Article
-In this [Article](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/), we will build a VBA script to
+In this [Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb), we will build a VBA script to
 automate PO creation in SAP.
 
 ## Code
